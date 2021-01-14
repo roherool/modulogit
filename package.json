@@ -1,0 +1,7 @@
+{
+  "name": "modulogit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Roberto Oliveira <roberto@streamline.com.br>",
+  "license": "MIT"
+}
