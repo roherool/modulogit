@@ -3,3 +3,14 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  background-color: #c2c2c2;
+}
+
+.container {
+  background-color: #c9cc;
+  width: 200px;
+  height: 200px;
+  border: 5px solid blue;
+}
